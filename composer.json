@@ -1,0 +1,15 @@
+{
+  "name" : "ilab/ilab-auth",
+  "description": "Plugin for providing basic auth protection for public stating/dev sites.",
+  "type": "wordpress-plugin",
+  "license": "LGPL",
+  "keywords": ["basic-auth","wordpress"],
+  "authors": [
+    {
+      "name": "Jon Gilkison",
+      "email": "jon@interfacelab.com"
+    }
+  ],
+  "require" : {
+  }
+}
